@@ -1,0 +1,1 @@
+../../../ubuntu/16.04/daemon-base/./generate_entrypoint.sh
